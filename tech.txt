@@ -1,0 +1,10 @@
+@arstechnica
+@cnetnews
+@emarketer
+@engadget
+@mashable
+@rww
+@sciam
+@slashdot
+@techcrunch
+@wired
