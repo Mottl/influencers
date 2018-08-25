@@ -2,7 +2,10 @@
 @bbcbreaking
 @bbcworld
 @breakingnews
+@business
 @cbsnews
+@cnbc
+@cnbcnow
 @cnn
 @cnnbrk
 @cnnlive
