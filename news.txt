@@ -30,6 +30,7 @@
 @politico
 @reuters
 @slate
+@squawkcnbc
 @telegraphnews
 @theeconomist
 @time
