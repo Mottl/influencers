@@ -20,7 +20,6 @@
 @IGSquawk
 @IvanTheK
 @JKempEnergy
-@JLyonsFundMGMT
 @JLyonsFundMgmt
 @JavierBlas2
 @JeffMacke
