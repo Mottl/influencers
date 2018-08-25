@@ -7,10 +7,12 @@
 @BearBull_Trader
 @Bloomberg
 @Brenda_Kelly
+@Business
 @Callum_Thomas
 @Carl_C_Icahn
 @ChrisWeston_IG
 @CiovaccoCapital
+@CNBCFastMoney
 @DailyFXTeam
 @ErikFossing
 @EvanLucas_IG
