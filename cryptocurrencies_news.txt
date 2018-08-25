@@ -1,6 +1,7 @@
 @iamjosephyoung
 @Bitcoin
 @BitcoinMagazine
+@btc
 @BTCNewsletter
 @BTCTN
 @coindesk
